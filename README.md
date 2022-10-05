@@ -1,2 +1,3 @@
-# AppliedAiCourseAssignments
-This repo contains the Applied Ai Course Assignments
+# Codewarriors
+Problems on Trie
+1. How to implement the trie
